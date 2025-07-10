@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @RowdyRathod3755
-- 👀 I’m interested in gaming 
-- 🌱 I’m currently learning hacking
 
 
 
